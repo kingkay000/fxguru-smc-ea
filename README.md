@@ -5,8 +5,8 @@ Bridges smart money concept (SMC) technical analysis with an external
 Python AI signal engine via REST API — managing the full position
 lifecycle through a four-state machine architecture on a live broker account.
 
-> **Deployment Status:** LIVE — Exness MT5 (EURUSD · GBPUSD · USDJPY)
-> **Companion System:** [AI Signal Bot](https://github.com/ACECollegeInternational/ai-signal-bot)
+> **Deployment Status:** LIVE — Headway MT5 (EURUSD · GBPUSD · USDJPY · XAUUSD)
+> **Companion System:** [AI Signal Bot](https://github.com/kingkay000/ai-signal-bot)
 > — the FastAPI/Python backend this EA communicates with
 
 ---
